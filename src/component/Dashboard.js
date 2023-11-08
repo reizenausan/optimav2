@@ -19,10 +19,6 @@ import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import { mainListItems, secondaryListItems } from './listItems';
 import Appointments from './Appointments';
-import Create from './CreatePatient';
-import Update from './UpdatePatient';
-import Delete from './DeletePatient';
-import Settings from './Settings';
 
 function Copyright(props) {
   return (
